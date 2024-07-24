@@ -50,6 +50,3 @@ password : password
 - Search Data
 - Responsive
 
-## License
-Aplikasi ini di buat bersama @Kelompok 4
-
