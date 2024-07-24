@@ -4,7 +4,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <a href="/" class="navbar-brand navbar-brand-autodark">
-            <h3 class="font-weight-bold">INVENTORY SYSTEM</h3>
+            <h3 class="font-weight-bold">PENYIMPANAN SISTEM</h3>
         </a>
         <div class="navbar-nav flex-row d-lg-none">
             <div class="nav-item dropdown">
