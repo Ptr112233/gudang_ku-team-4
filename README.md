@@ -51,4 +51,5 @@ password : password
 - Responsive
 
 ## License
-Aplikasi ini bersifat open source dapat digunakan oleh siapa pun dengan syarat tidak untuk di perjual belikan.
+Aplikasi ini di buat bersama @Kelompok 4
+
